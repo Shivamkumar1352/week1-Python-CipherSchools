@@ -2,14 +2,16 @@
 # and , or
 
 #AND condition:
-if name == "Apoorv" and age == 19:
+name=input()
+age=int(input())
+if name == "Shivam" and age == 19:
     print("condition true")
 else :
     print("condition false")
 
 
 #OR condition :
-if name == "Apoorv" or age == 19:
+if name == "Shivam" or age == 19:
     print("condition true")
 else:
     print("condition false")     
