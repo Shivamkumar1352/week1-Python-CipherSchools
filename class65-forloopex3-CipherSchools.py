@@ -1,13 +1,13 @@
 # ask user for name 
-# example - "Apoorv"
+# example - "Shivam"
 #print count of each words
 # output:
-        #   A : 1
-        #   P : 1
-        #   o : 2
-        #   o : 2
-        #   r : 1
-        #   v : 1
+        #   S : 1
+        #   h : 1
+        #   i : 2
+        #   v : 2
+        #   a : 1
+        #   m : 1
 
 
 #ans:
